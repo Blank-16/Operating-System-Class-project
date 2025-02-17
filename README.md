@@ -1,2 +1,6 @@
 # Operating-System-Class-project
-Operating System Class project, Ansuman PalSamique 
+Operating System Class project.
+Collaborators:
+  Ansuman Pal
+  Arslan Ali
+  Samique Hossain 
